@@ -1,4 +1,4 @@
-# Ankith — Fresher Profile
+# Ankith 
 
 ## Summary
 Aspiring entry-level software developer eager to apply my technical skills and learn on the job. Motivated fresher with hands-on practice in web development and programming fundamentals, strong problem-solving ability, and good teamwork and communication skills.
